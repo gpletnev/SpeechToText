@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Speech To Text</string>
+    <string name="listening">Listening …</string>
+    <string name="start_listening">Start listening</string>
     <string-array name="errors">
         <item/>
         <item>"Network operation timed out."</item>
